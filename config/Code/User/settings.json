@@ -1,0 +1,6 @@
+{
+    "files.autoSave": "afterDelay",
+    "terminal.integrated.fontFamily": "FiraCode Nerd Font Mono",
+    "editor.renderWhitespace": "all",
+    "window.zoomLevel": 1
+}
